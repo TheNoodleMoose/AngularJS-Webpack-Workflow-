@@ -23,7 +23,7 @@ This workflow serves as a starting point for building Angular 1.5 applications u
 To use it, just clone this repo and install the npm dependencies:
 
 ```shell
-$ git clone https://github.com/mike-allison/angular-webpack-workflow my_app
+$ git https://github.com/TheNoodleMoose/AngularJS-Webpack-Workflow-
 $ cd my_app
 $ npm install
 ```
